@@ -25,35 +25,30 @@ This is a real hands-on demonstration using the AWS Console.
 ### 1. Bucket Created
 Shows the S3 bucket we created for this project.
 
-![Bucket Created](screenshots/bucket-created.png)
 
 ---
 
 ### 2. File Uploaded
 Uploaded a sample file to the bucket.
 
-![File Uploaded](screenshots/file-upload.png)
 
 ---
 
 ### 3. Lifecycle Rule Scope
 Defining the rule scope and name.
 
-![Lifecycle Scope Setup](screenshots/lifecycle-scope.png)
 
 ---
 
 ### 4. Lifecycle Actions Selected
 Transition and expiration actions are selected here.
 
-![Lifecycle Actions](screenshots/lifecycle-actions.png)
 
 ---
 
 ### 5. Rule Created and Active
 The final lifecycle rule is created and enabled.
 
-![Rule Created](screenshots/rule-created.png)
 
 ---
 
